@@ -1,2 +1,2 @@
-# js-para-react
- Cursos de javascript voltados ao react
+# Anotações
+https://www.w3schools.com/js/js_versions.asp
