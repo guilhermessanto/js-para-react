@@ -5,6 +5,7 @@
 - declaração e uso de funções (nomeadas e arrow functions)
 - Template Literals (Strings)
 - Módulos externos (importação e exportação)
+- Classes (Propriedades e Métodos usando Orientação a Objetos)
 
 
 ## Sites úteis

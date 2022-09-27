@@ -2,7 +2,7 @@
 /* var meuNome = 'Guilherme'; */
 
 /* Jeito moderno de usar variáveis */
-/* let meuNome = 'Guilherem'; */
+/* let meuNome = 'Guilherme'; */
 
 const meuNome = 'Guilherme'; //Obrigatório a inicialização
 console.log(meuNome);
